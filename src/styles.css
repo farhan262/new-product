@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+}
+.product {
+  height: 200px;
+  width: 200px;
+  background-color: white;
+  border: black solid;
+  border-color: black;
+  margin-right: 20px;
+}
+.cart {
+  height: 200px;
+  width: 200px;
+  background-color: white;
+  border: black solid;
+  border-color: black;
+}
+.p {
+  background-color: cadetblue;
+}
